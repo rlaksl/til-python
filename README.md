@@ -1,4 +1,4 @@
-# Today I Learned about Python ·  Python 학습 기록
+# Today I Learned about Python · 파이썬 학습 기록
 
 ## 학습 개요
 - **과정**: 노마드 코더(Nomad Coders) - 파이썬 2주 챌린지
